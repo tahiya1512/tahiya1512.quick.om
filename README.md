@@ -103,6 +103,5 @@ Right aligned columns
 
 ## Images
 
-![quick](https://octodex.github.com/images/quick.png)
-
+![quick]![شعار الفريق والكلمة الرنانة Logo and Slogan (2)](https://user-images.githubusercontent.com/122742854/212828831-ff7c44ba-541e-46be-b7ff-58383a120ac4.png)
 # The End!
