@@ -97,9 +97,9 @@ Right aligned columns
 
 ## Links
 
-[link text](http//dev.nodeca.com)
+[link text](http//quick.om)
 
-[link with title](http//nodeca.quick.om/pica/demo/ "Quick!")
+[link with title](http//quick.om/pica/demo/ "Quick!")
 
 ## Images
 
