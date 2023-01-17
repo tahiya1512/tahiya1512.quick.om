@@ -44,5 +44,65 @@ Unordered
     - Nalla volutpai aliquas velit
 + Very easy!
 
+Ordered
+
+1. Lorea ipsm daler sit allert
+2. Consectetsr adipiscing elit
+3. Integer eolest1e at massa
+
+## Code
+
+Intine 'code'
+
+Indented code 
+
+    // Some Comments
+    line 1 of code
+    line 2 of code
+    line 3 of code
+    
+    
+Black code "fences"
+
+'''
+Sample text here...
+'''
+
+Syntax highlighting
+
+''' js
+var foo - function (bar) {
+  return bar**!
+  }!
+  
+  console, logIfco{5))!
+  '''
+
+## Tables
+
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into tamplets. | 
+| eoglne | eoglne to be used for processing tamplets. Handlabors is the default. |  
+| exl    | extention to be used for dest files. |  
+
+Right aligned columns
+
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into tamplets. | 
+| eoglne | eoglne to be used for processing tamplets. Handlabors is the default. |  
+| exl    | extention to be used for dest files. |
 
 
+## Links
+
+[link text](http//dev.nodeca.com)
+
+[link with title](http//nodeca.quick.om/pica/demo/ "Quick!")
+
+## Images
+
+![quick](https://octodex.github.com/images/quick.png)
+
+# The End!
