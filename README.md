@@ -13,7 +13,7 @@ ___
 
 ## Emphasis
 
-**This is bold text**
+**Quick app**
 
 __This is bold text__
 
