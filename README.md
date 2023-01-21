@@ -1,3 +1,7 @@
+## Images
+
+![quick]![شعار الفريق والكلمة الرنانة Logo and Slogan (2)](https://user-images.githubusercontent.com/122742854/212828831-ff7c44ba-541e-46be-b7ff-58383a120ac4.png)
+
 # Quick app
 ## فكرة المشروع 
 ### مشروع quick هو عبارة عن كاميرات وبرنامج مرتبط بالتابلت الموجود على شاحنات نقل النفايات تعمل بتقنية الحديثة وجودة ودقة عالية التي تعتمد على المسح التلقائي باستخدام الذكاء الصناعي وإنترنت الاشياء. بعد مسح الكاميرات للنفايات الخضراء والكبيرة الموجودة بجانب الحاويات البلدية أو في مكان غير مخصص لها لجمع المعلومات والبيانات المتعلقة بها إلى البرنامج الموجود على التابلت، ليتم إكمال بقية البيانات والمعلومات عن طريق عامل نقل النفايات. يتم إرسال البيانات والمعلومات التي تم تجميعها إلى شركة بيئة وبدورها تعمل على الموافقة على البيانات وإرسالها مباشرة إلى الشركة المتعاقد معها والمختصة بنقل تلك النفايات في أسرع وقت ممكن وبجهد أقل.
@@ -101,9 +105,7 @@ Right aligned columns
 
 [link with title](http//quick.om/pica/demo/ "Quick!")
 
-## Images
 
-![quick]![شعار الفريق والكلمة الرنانة Logo and Slogan (2)](https://user-images.githubusercontent.com/122742854/212828831-ff7c44ba-541e-46be-b7ff-58383a120ac4.png)
 # The End!
 
 | Waste Images from Sushi Restaurant 	| 16             	| -                              	| 500        	| Classification            	| Clear background                     	| [kaggle](https://www.kaggle.com/arthurcen/waste-images-from-sushi-restaurant) 	| :heavy_check_mark: 	|
