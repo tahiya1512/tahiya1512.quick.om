@@ -97,7 +97,7 @@ Right aligned columns
 
 ## Links
 
-[link text](http//quick.om)
+[link text](http//Throwapp.om@gmail.com)
 
 [link with title](http//quick.om/pica/demo/ "Quick!")
 
