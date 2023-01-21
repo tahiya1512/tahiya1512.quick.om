@@ -101,7 +101,7 @@ Right aligned columns
 
 ## Links
 
-[link text](https://mail.google.com/mail/u/2/#inbox?compose=new)  
+[send an email](https://mail.google.com/mail/u/2/#inbox?compose=new)  
 
 [link with title](http//quick.om/pica/demo/ "Quick!")
 
