@@ -97,7 +97,7 @@ Right aligned columns
 
 ## Links
 
-[link text](https://mail.google.com/mail/u/2/#inbox))
+[link text]([https://mail.google.com/mail/u/2/#inbox))
 
 [link with title](http//quick.om/pica/demo/ "Quick!")
 
